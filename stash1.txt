@@ -1,0 +1,2 @@
+to check if we can stash only 1 file
+
